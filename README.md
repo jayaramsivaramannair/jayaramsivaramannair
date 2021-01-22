@@ -8,15 +8,16 @@
 
 ### You can Reach Me at:
 
-[<img align="left" alt="linkedin Icon" width="22px" src="../Assets/linkedin.svg"/>][linkedin]
+[<img align="left" alt="linkedin Icon" width="22px" src="./Assets/linkedin.svg"/>][linkedin]
 
 <br />
+
 ### Languages and Tools:
 
-[<img align="left" alt="html" width="26px" src="../Assets/html-5.svg"/>]
-[<img align="left" alt="css" width="26px" src="../Assets/919826.png"/>]
-[<img align="left" alt="javascript" width="26px" src="../Assets/javascript.svg"/>]
-[<img align="left" alt="cpp" width="26px" src="../Assets/c.svg"/>]
+[<img align="left" alt="html" width="26px" src="./Assets/html-5.svg"/>]
+[<img align="left" alt="css" width="26px" src="./Assets/919826.png"/>]
+[<img align="left" alt="javascript" width="26px" src="./Assets/javascript.svg"/>]
+[<img align="left" alt="cpp" width="26px" src="./Assets/c.svg"/>]
 
 [lambda]: https://lambdaschool.com/
 [linkedin]: https://linkedin.com/in/jayaramsivaramannair
