@@ -16,9 +16,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="html" width="52px" src="./Assets/html.svg"/>]
-[<img align="left" alt="css" width="52px" src="./Assets/css.svg"/>]
-[<img align="left" alt="javascript" width="52px" src="./Assets/JavaScript-1.svg"]
+[<img align="left" alt="html" width="52px" src="./Assets/html5.svg"/>]
+[<img align="left" alt="css" width="52px" src="./Assets/css3.svg"/>]
+[<img align="left" alt="javascript" width="52px" src="./Assets/javascript.svg"/>]
+[<img align="left" alt="javascript" width="52px" src="./Assets/typescript.svg"/>]
+[<img align="left" alt="javascript" width="52px" src="./Assets/react.png"/>]
 [<img align="left" alt="cpp" width="52px" src="./Assets/cpp.svg"/>]
 
 [lambda]: https://lambdaschool.com
