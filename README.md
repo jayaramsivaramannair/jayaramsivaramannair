@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi , My name is &nbsp; <img src="https://github.com/jayaramsivaramannair/jayaramsivaramannair/blob/main/Assets/Signature.gif" width="140px">
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi , My name is &nbsp; <img src="https://github.com/jayaramsivaramannair/jayaramsivaramannair/blob/main/Assets/Signature.gif" width="180px">
 
 
 ##### I am a Software Engineer
