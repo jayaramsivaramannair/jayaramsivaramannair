@@ -1,6 +1,6 @@
-## Hi , I am Jayaram
+## Hi , My name is Jayaram <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Software Engineer :wave:
+## I am a Software Engineer
 
 <br />
 <br />
