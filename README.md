@@ -7,9 +7,12 @@
 
 # &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaramsivaramannair&hide=java,css&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaramsivaramannair&theme=cobalt&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/jayaramsivaramannair/jayaramsivaramannair">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaramsivaramannair&hide=cpp,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/jayaramsivaramannair/jayaramsivaramannair">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayaramsivaramannair&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jayaram's GitHub Stats" />
+</a>
 
 # Contact Me:
 
