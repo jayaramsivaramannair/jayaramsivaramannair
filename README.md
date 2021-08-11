@@ -1,8 +1,6 @@
 ## Hi , I am Jayaram
 
-## I'm a Software Engineer!
-
-* I'm currently enrolled in the full-stack web development track at [Lambda_School]
+## I'm a Software Engineer :wave:
 
 <br />
 <br />
