@@ -1,7 +1,8 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi , My name is &nbsp; <img src="https://github.com/jayaramsivaramannair/jayaramsivaramannair/blob/main/Assets/Signature.gif" width="180px">
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi , My name is Jayaram Nair
 
 
-##### I am a Software Engineer
+- I am a Software Engineer with a keen interest in backend development, bitcoin and blockchain. 
+- I enjoy reading Philosophy and taking long solitary walks when I am not writing code. 
 
 <br />
 <br />
