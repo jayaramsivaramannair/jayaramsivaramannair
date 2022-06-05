@@ -1,6 +1,3 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello :earth_americas:
-
-
 - I am a Software Engineer with a keen interest in backend development, Bitcoin and blockchain. 
 - I enjoy reading Philosophy and taking long solitary walks when I am not writing code. 
 
